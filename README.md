@@ -115,23 +115,6 @@ Main topics:
 
 ---
 
-## Professional Experience
-
-### Backend Java Developer — Lyreco Group
-
-Working on distributed Java microservices in a highly event-driven environment using:
-
-- Java
-- Kafka
-- MongoDB
-- Docker
-- Kubernetes
-- Prometheus
-- Grafana
-- TDD
-
----
-
 ## Contact
 
 LinkedIn:
