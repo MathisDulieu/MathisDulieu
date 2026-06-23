@@ -1,130 +1,104 @@
-# Mathis Dulieu
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,100:ED8B00&text=Mathis%20Dulieu&fontColor=FFFFFF&fontSize=44&fontAlignY=35&desc=Backend%20Java%20Developer%20%7C%20Spring%20Boot%20%7C%20Kafka&descColor=F8F8F8&descAlignY=58" />
+</p>
 
-Backend Java Developer specialized in distributed systems, event-driven architectures and scalable backend applications.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=900&center=true&vCenter=true&width=850&lines=Backend+Java+Developer;Building+distributed+backend+systems;Spring+Boot+%7C+Kafka+%7C+Microservices;Clean+Architecture+%7C+TDD+%7C+Observability" />
+</p>
 
-Currently working at Lyreco Group as a Backend Java Developer while completing my Engineering Degree at SUPINFO.
-
----
-
-## About Me
-
-I enjoy designing backend systems that are reliable, scalable and maintainable.
-
-My main interests are:
-
-- Distributed Systems
-- Event-Driven Architectures
-- Apache Kafka
-- Microservices
-- Software Architecture
-- Test Driven Development
-- Real-Time Applications
-- Backend Performance
-
-Currently building personal projects inspired by real-world engineering challenges to deepen my expertise in modern backend development.
+<p align="center">
+  <a href="https://linkedin.com/in/mathis-dulieu">
+    <img src="https://img.shields.io/badge/LinkedIn-Mathis%20Dulieu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://mathisdulieu.com">
+    <img src="https://img.shields.io/badge/Portfolio-mathisdulieu.com-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:dulieu.mathis@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## Current Stack
+## About
 
-### Backend
+Backend Java Developer focused on building reliable, scalable and maintainable backend systems.
 
-- Java 21
-- Spring Boot
-- REST APIs
-- Apache Kafka
-- Clean Architecture
-- TDD
+Currently working at Lyreco Group while completing my Engineering Degree at SUPINFO.
 
-### Databases
+I enjoy working on distributed systems, event-driven architectures, backend performance and production-ready software design.
 
-- MongoDB
-- PostgreSQL
-- Oracle Database
+---
 
-### DevOps & Observability
+## Java Ecosystem
 
-- Docker
-- Kubernetes
-- GitHub Actions
-- Prometheus
-- Grafana
-- Nexus
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,kafka,docker,kubernetes,postgres,mongodb,githubactions,linux" />
+</p>
 
-### Frontend
-
-- React
-- TypeScript
-- Vite
-- TailwindCSS
-
-### Other Technologies
-
-- C++
-- Git
-- Linux
+<p align="center">
+  <img src="https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-ED8B00?style=flat-square" />
+  <img src="https://img.shields.io/badge/TDD-2563EB?style=flat-square" />
+</p>
 
 ---
 
 ## Featured Projects
 
-### Realtime Ticketing Platform
-
-A distributed ticketing platform inspired by Ticketmaster, Eventbrite and Dice.
-
-Main topics:
-
-- Event-driven architecture
-- Apache Kafka
-- Microservices
-- Real-time availability updates
-- WebSocket & SSE
-- MongoDB
-- Docker
-- Prometheus & Grafana
-
----
-
-### Data Processing Platform
-
-Enterprise-oriented data ingestion and analytics platform.
-
-Main topics:
-
-- Batch processing
-- CSV / JSON ingestion
-- Data validation
-- PostgreSQL
-- REST APIs
-- Dashboard & reporting
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Realtime Ticketing Platform</h3>
+      <p>Distributed ticketing platform inspired by Ticketmaster and Eventbrite.</p>
+      <p><strong>Java · Spring Boot · Kafka · MongoDB · Docker · Grafana</strong></p>
+    </td>
+    <td width="50%">
+      <h3>Data Processing Platform</h3>
+      <p>Enterprise-oriented platform for data ingestion, validation and analytics.</p>
+      <p><strong>Java · Spring Boot · PostgreSQL · REST APIs · Dashboard</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>CppRoyale</h3>
+      <p>Multiplayer real-time strategy game based on a client-server architecture.</p>
+      <p><strong>C++17 · SFML · Networking · Game Loop · Pathfinding</strong></p>
+    </td>
+    <td width="50%">
+      <h3>Engineering Focus</h3>
+      <p>Backend systems designed around reliability, scalability and maintainability.</p>
+      <p><strong>Architecture · Testing · Observability · Performance</strong></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### CppRoyale
+## GitHub Overview
 
-Multiplayer real-time strategy game inspired by Clash Royale.
-
-Main topics:
-
-- C++17
-- SFML
-- Client / Server architecture
-- Custom networking protocol
-- Pathfinding
-- Fixed Tick Game Loop
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MathisDulieu&show_icons=true&theme=github_dark&hide_border=true&title_color=ED8B00&icon_color=ED8B00" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathisDulieu&layout=compact&theme=github_dark&hide_border=true&title_color=ED8B00" height="165" />
+</p>
 
 ---
 
 ## Contact
 
-LinkedIn:
-linkedin.com/in/mathis-dulieu
+<p align="center">
+  <a href="https://linkedin.com/in/mathis-dulieu">LinkedIn</a>
+  ·
+  <a href="https://mathisdulieu.com">Portfolio</a>
+  ·
+  <a href="mailto:dulieu.mathis@gmail.com">Email</a>
+  ·
+  <a href="https://github.com/MathisDulieu">GitHub</a>
+</p>
 
-Portfolio:
-mathisdulieu.com
-
-Email:
-dulieu.mathis@gmail.com
-
-GitHub:
-github.com/MathisDulieu
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ED8B00,100:0D1117" />
+</p>
