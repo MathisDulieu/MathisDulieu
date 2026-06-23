@@ -1,0 +1,13 @@
+{
+  "name": "Mathis Dulieu",
+  "title": "Backend Java Developer",
+  "company": "Lyreco Group",
+  "school": "SUPINFO",
+  "location": "France",
+  "contact": {
+    "linkedin": "https://linkedin.com/in/mathis-dulieu",
+    "portfolio": "https://mathisdulieu.com",
+    "email": "mailto:dulieu.mathis@gmail.com",
+    "github": "https://github.com/MathisDulieu"
+  }
+}

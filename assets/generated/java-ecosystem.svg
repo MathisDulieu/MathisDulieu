@@ -1,0 +1,219 @@
+<svg viewBox="0 0 900 696" xmlns="http://www.w3.org/2000/svg" width="900" height="696">
+    <defs>
+        <linearGradient id="bgEco" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#0D1117"/>
+            <stop offset="100%" style="stop-color:#0F1923"/>
+        </linearGradient>
+        <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#161B22"/>
+            <stop offset="100%" style="stop-color:#1A2233"/>
+        </linearGradient>
+        <linearGradient id="headerLine" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" style="stop-color:#ED8B00;stop-opacity:0"/>
+            <stop offset="20%" style="stop-color:#ED8B00"/>
+            <stop offset="80%" style="stop-color:#ED8B00"/>
+            <stop offset="100%" style="stop-color:#ED8B00;stop-opacity:0"/>
+        </linearGradient>
+        <linearGradient id="rowLine" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" style="stop-color:#ED8B00;stop-opacity:0"/>
+            <stop offset="50%" style="stop-color:#ED8B00;stop-opacity:0.25"/>
+            <stop offset="100%" style="stop-color:#ED8B00;stop-opacity:0"/>
+        </linearGradient>
+    </defs>
+
+    <rect width="900" height="696" fill="url(#bgEco)" rx="12"/>
+
+    <text x="450" y="26" font-family="JetBrains Mono, monospace" font-size="11" fill="#ED8B00" text-anchor="middle" letter-spacing="4" font-weight="600">TECH STACK</text>
+    <rect x="200" y="31" width="500" height="1" fill="url(#headerLine)"/>
+
+    <text x="450" y="55" font-family="JetBrains Mono, monospace" font-size="9" fill="#6B7280" text-anchor="middle" letter-spacing="3">LANGUAGES</text>
+
+    <g transform="translate(303, 64)">
+        <rect x="0" y="0" width="94" height="130" rx="8" fill="url(#cardGrad)" stroke="#ED8B00" stroke-width="1">
+            <animate attributeName="stroke-opacity" values="0.9;0.4;0.9" dur="3s" repeatCount="indefinite"/>
+        </rect>
+        <image href="https://skillicons.dev/icons?i=java" x="23" y="10" width="48" height="48"/>
+        <rect x="12" y="64" width="70" height="1" fill="#ED8B00" opacity="0.3"/>
+        <text x="47" y="78" font-family="JetBrains Mono, monospace" font-size="9" fill="#F0F6FC" text-anchor="middle" font-weight="600">Java 21</text>
+        <rect x="10" y="88" width="74" height="14" rx="3" fill="#ED8B00" opacity="0.15"/>
+        <text x="47" y="98" font-family="JetBrains Mono, monospace" font-size="7" fill="#ED8B00" text-anchor="middle">PRIMARY</text>
+    </g>
+
+    <g transform="translate(403, 64)">
+        <rect x="0" y="0" width="94" height="130" rx="8" fill="url(#cardGrad)" stroke="#00599C" stroke-width="1">
+            <animate attributeName="stroke-opacity" values="0.9;0.4;0.9" dur="3.3s" begin="0.2s" repeatCount="indefinite"/>
+        </rect>
+        <image href="https://skillicons.dev/icons?i=cpp" x="23" y="10" width="48" height="48"/>
+        <rect x="12" y="64" width="70" height="1" fill="#00599C" opacity="0.3"/>
+        <text x="47" y="78" font-family="JetBrains Mono, monospace" font-size="9" fill="#F0F6FC" text-anchor="middle" font-weight="600">C++</text>
+        <rect x="10" y="88" width="74" height="14" rx="3" fill="#00599C" opacity="0.15"/>
+        <text x="47" y="98" font-family="JetBrains Mono, monospace" font-size="7" fill="#00599C" text-anchor="middle">LANGUAGE</text>
+    </g>
+
+    <g transform="translate(503, 64)">
+        <rect x="0" y="0" width="94" height="130" rx="8" fill="url(#cardGrad)" stroke="#CC0000" stroke-width="1">
+            <animate attributeName="stroke-opacity" values="0.9;0.4;0.9" dur="2.9s" begin="0.4s" repeatCount="indefinite"/>
+        </rect>
+        <image href="https://skillicons.dev/icons?i=rails" x="23" y="10" width="48" height="48"/>
+        <rect x="12" y="64" width="70" height="1" fill="#CC0000" opacity="0.3"/>
+        <text x="47" y="78" font-family="JetBrains Mono, monospace" font-size="9" fill="#F0F6FC" text-anchor="middle" font-weight="600">Rails</text>
+        <rect x="10" y="88" width="74" height="14" rx="3" fill="#CC0000" opacity="0.15"/>
+        <text x="47" y="98" font-family="JetBrains Mono, monospace" font-size="7" fill="#CC0000" text-anchor="middle">FRAMEWORK</text>
+    </g>
+
+    <rect x="50" y="207" width="800" height="1" fill="url(#rowLine)"/>
+
+    <text x="450" y="219" font-family="JetBrains Mono, monospace" font-size="9" fill="#6B7280" text-anchor="middle" letter-spacing="3">BACKEND</text>
+
+    <g transform="translate(253, 228)">
+        <rect x="0" y="0" width="94" height="130" rx="8" fill="url(#cardGrad)" stroke="#6DB33F" stroke-width="1">
+            <animate attributeName="stroke-opacity" values="0.9;0.4;0.9" dur="3.4s" begin="0.3s" repeatCount="indefinite"/>
+        </rect>
+        <image href="https://skillicons.dev/icons?i=spring" x="23" y="10" width="48" height="48"/>
+        <rect x="12" y="64" width="70" height="1" fill="#6DB33F" opacity="0.3"/>
+        <text x="47" y="78" font-family="JetBrains Mono, monospace" font-size="9" fill="#F0F6FC" text-anchor="middle" font-weight="600">Spring Boot</text>
+        <rect x="10" y="88" width="74" height="14" rx="3" fill="#6DB33F" opacity="0.15"/>
+        <text x="47" y="98" font-family="JetBrains Mono, monospace" font-size="7" fill="#6DB33F" text-anchor="middle">FRAMEWORK</text>
+    </g>
+
+    <g transform="translate(353, 228)">
+        <rect x="0" y="0" width="94" height="130" rx="8" fill="url(#cardGrad)" stroke="#9CA3AF" stroke-width="1">
+            <animate attributeName="stroke-opacity" values="0.9;0.4;0.9" dur="2.8s" begin="0.5s" repeatCount="indefinite"/>
+        </rect>
+        <image href="https://skillicons.dev/icons?i=kafka" x="23" y="10" width="48" height="48"/>
+        <rect x="12" y="64" width="70" height="1" fill="#9CA3AF" opacity="0.3"/>
+        <text x="47" y="78" font-family="JetBrains Mono, monospace" font-size="9" fill="#F0F6FC" text-anchor="middle" font-weight="600">Kafka</text>
+        <rect x="10" y="88" width="74" height="14" rx="3" fill="#9CA3AF" opacity="0.15"/>
+        <text x="47" y="98" font-family="JetBrains Mono, monospace" font-size="7" fill="#9CA3AF" text-anchor="middle">MESSAGING</text>
+    </g>
+
+    <g transform="translate(453, 228)">
+        <rect x="0" y="0" width="94" height="130" rx="8" fill="url(#cardGrad)" stroke="#F46800" stroke-width="1">
+            <animate attributeName="stroke-opacity" values="0.9;0.4;0.9" dur="3.1s" begin="0.7s" repeatCount="indefinite"/>
+        </rect>
+        <image href="https://skillicons.dev/icons?i=grafana" x="23" y="10" width="48" height="48"/>
+        <rect x="12" y="64" width="70" height="1" fill="#F46800" opacity="0.3"/>
+        <text x="47" y="78" font-family="JetBrains Mono, monospace" font-size="9" fill="#F0F6FC" text-anchor="middle" font-weight="600">Grafana</text>
+        <rect x="10" y="88" width="74" height="14" rx="3" fill="#F46800" opacity="0.15"/>
+        <text x="47" y="98" font-family="JetBrains Mono, monospace" font-size="7" fill="#F46800" text-anchor="middle">OBSERV.</text>
+    </g>
+
+    <g transform="translate(553, 228)">
+        <rect x="0" y="0" width="94" height="130" rx="8" fill="url(#cardGrad)" stroke="#E6522C" stroke-width="1">
+            <animate attributeName="stroke-opacity" values="0.9;0.4;0.9" dur="3.6s" begin="0.9s" repeatCount="indefinite"/>
+        </rect>
+        <image href="https://skillicons.dev/icons?i=prometheus" x="23" y="10" width="48" height="48"/>
+        <rect x="12" y="64" width="70" height="1" fill="#E6522C" opacity="0.3"/>
+        <text x="47" y="78" font-family="JetBrains Mono, monospace" font-size="9" fill="#F0F6FC" text-anchor="middle" font-weight="600">Prometheus</text>
+        <rect x="10" y="88" width="74" height="14" rx="3" fill="#E6522C" opacity="0.15"/>
+        <text x="47" y="98" font-family="JetBrains Mono, monospace" font-size="7" fill="#E6522C" text-anchor="middle">OBSERV.</text>
+    </g>
+
+    <rect x="50" y="371" width="800" height="1" fill="url(#rowLine)"/>
+
+    <text x="450" y="383" font-family="JetBrains Mono, monospace" font-size="9" fill="#6B7280" text-anchor="middle" letter-spacing="3">DEVOPS</text>
+
+    <g transform="translate(153, 392)">
+        <rect x="0" y="0" width="94" height="130" rx="8" fill="url(#cardGrad)" stroke="#2496ED" stroke-width="1">
+            <animate attributeName="stroke-opacity" values="0.9;0.4;0.9" dur="3.2s" begin="0.2s" repeatCount="indefinite"/>
+        </rect>
+        <image href="https://skillicons.dev/icons?i=docker" x="23" y="10" width="48" height="48"/>
+        <rect x="12" y="64" width="70" height="1" fill="#2496ED" opacity="0.3"/>
+        <text x="47" y="78" font-family="JetBrains Mono, monospace" font-size="9" fill="#F0F6FC" text-anchor="middle" font-weight="600">Docker</text>
+        <rect x="10" y="88" width="74" height="14" rx="3" fill="#2496ED" opacity="0.15"/>
+        <text x="47" y="98" font-family="JetBrains Mono, monospace" font-size="7" fill="#2496ED" text-anchor="middle">CONTAINER</text>
+    </g>
+
+    <g transform="translate(253, 392)">
+        <rect x="0" y="0" width="94" height="130" rx="8" fill="url(#cardGrad)" stroke="#326CE5" stroke-width="1">
+            <animate attributeName="stroke-opacity" values="0.9;0.4;0.9" dur="3.6s" begin="0.4s" repeatCount="indefinite"/>
+        </rect>
+        <image href="https://skillicons.dev/icons?i=kubernetes" x="23" y="10" width="48" height="48"/>
+        <rect x="12" y="64" width="70" height="1" fill="#326CE5" opacity="0.3"/>
+        <text x="47" y="78" font-family="JetBrains Mono, monospace" font-size="9" fill="#F0F6FC" text-anchor="middle" font-weight="600">Kubernetes</text>
+        <rect x="10" y="88" width="74" height="14" rx="3" fill="#326CE5" opacity="0.15"/>
+        <text x="47" y="98" font-family="JetBrains Mono, monospace" font-size="7" fill="#326CE5" text-anchor="middle">ORCHESTR.</text>
+    </g>
+
+    <g transform="translate(353, 392)">
+        <rect x="0" y="0" width="94" height="130" rx="8" fill="url(#cardGrad)" stroke="#D33833" stroke-width="1">
+            <animate attributeName="stroke-opacity" values="0.9;0.4;0.9" dur="2.7s" begin="0.6s" repeatCount="indefinite"/>
+        </rect>
+        <image href="https://skillicons.dev/icons?i=jenkins" x="23" y="10" width="48" height="48"/>
+        <rect x="12" y="64" width="70" height="1" fill="#D33833" opacity="0.3"/>
+        <text x="47" y="78" font-family="JetBrains Mono, monospace" font-size="9" fill="#F0F6FC" text-anchor="middle" font-weight="600">Jenkins</text>
+        <rect x="10" y="88" width="74" height="14" rx="3" fill="#D33833" opacity="0.15"/>
+        <text x="47" y="98" font-family="JetBrains Mono, monospace" font-size="7" fill="#D33833" text-anchor="middle">CI/CD</text>
+    </g>
+
+    <g transform="translate(453, 392)">
+        <rect x="0" y="0" width="94" height="130" rx="8" fill="url(#cardGrad)" stroke="#0075A8" stroke-width="1">
+            <animate attributeName="stroke-opacity" values="0.9;0.4;0.9" dur="3.4s" begin="0.8s" repeatCount="indefinite"/>
+        </rect>
+        <image href="https://www.rancher.com/favicon.ico" x="23" y="10" width="48" height="48"/>
+        <rect x="12" y="64" width="70" height="1" fill="#0075A8" opacity="0.3"/>
+        <text x="47" y="78" font-family="JetBrains Mono, monospace" font-size="9" fill="#F0F6FC" text-anchor="middle" font-weight="600">Rancher</text>
+        <rect x="10" y="88" width="74" height="14" rx="3" fill="#0075A8" opacity="0.15"/>
+        <text x="47" y="98" font-family="JetBrains Mono, monospace" font-size="7" fill="#0075A8" text-anchor="middle">K8S MGMT</text>
+    </g>
+
+    <g transform="translate(553, 392)">
+        <rect x="0" y="0" width="94" height="130" rx="8" fill="url(#cardGrad)" stroke="#2088FF" stroke-width="1">
+            <animate attributeName="stroke-opacity" values="0.9;0.4;0.9" dur="3.1s" begin="1s" repeatCount="indefinite"/>
+        </rect>
+        <image href="https://skillicons.dev/icons?i=githubactions" x="23" y="10" width="48" height="48"/>
+        <rect x="12" y="64" width="70" height="1" fill="#2088FF" opacity="0.3"/>
+        <text x="47" y="78" font-family="JetBrains Mono, monospace" font-size="9" fill="#F0F6FC" text-anchor="middle" font-weight="600">GH Actions</text>
+        <rect x="10" y="88" width="74" height="14" rx="3" fill="#2088FF" opacity="0.15"/>
+        <text x="47" y="98" font-family="JetBrains Mono, monospace" font-size="7" fill="#2088FF" text-anchor="middle">CI/CD</text>
+    </g>
+
+    <g transform="translate(653, 392)">
+        <rect x="0" y="0" width="94" height="130" rx="8" fill="url(#cardGrad)" stroke="#FCC624" stroke-width="1">
+            <animate attributeName="stroke-opacity" values="0.9;0.4;0.9" dur="2.9s" begin="1.2s" repeatCount="indefinite"/>
+        </rect>
+        <image href="https://skillicons.dev/icons?i=linux" x="23" y="10" width="48" height="48"/>
+        <rect x="12" y="64" width="70" height="1" fill="#FCC624" opacity="0.3"/>
+        <text x="47" y="78" font-family="JetBrains Mono, monospace" font-size="9" fill="#F0F6FC" text-anchor="middle" font-weight="600">Linux</text>
+        <rect x="10" y="88" width="74" height="14" rx="3" fill="#FCC624" opacity="0.15"/>
+        <text x="47" y="98" font-family="JetBrains Mono, monospace" font-size="7" fill="#FCC624" text-anchor="middle">OS</text>
+    </g>
+
+    <rect x="50" y="535" width="800" height="1" fill="url(#rowLine)"/>
+
+    <text x="450" y="547" font-family="JetBrains Mono, monospace" font-size="9" fill="#6B7280" text-anchor="middle" letter-spacing="3">DATA</text>
+
+    <g transform="translate(303, 556)">
+        <rect x="0" y="0" width="94" height="130" rx="8" fill="url(#cardGrad)" stroke="#4169E1" stroke-width="1">
+            <animate attributeName="stroke-opacity" values="0.9;0.4;0.9" dur="2.6s" begin="0.3s" repeatCount="indefinite"/>
+        </rect>
+        <image href="https://skillicons.dev/icons?i=postgres" x="23" y="10" width="48" height="48"/>
+        <rect x="12" y="64" width="70" height="1" fill="#4169E1" opacity="0.3"/>
+        <text x="47" y="78" font-family="JetBrains Mono, monospace" font-size="9" fill="#F0F6FC" text-anchor="middle" font-weight="600">PostgreSQL</text>
+        <rect x="10" y="88" width="74" height="14" rx="3" fill="#4169E1" opacity="0.15"/>
+        <text x="47" y="98" font-family="JetBrains Mono, monospace" font-size="7" fill="#4169E1" text-anchor="middle">RELATIONAL</text>
+    </g>
+
+    <g transform="translate(403, 556)">
+        <rect x="0" y="0" width="94" height="130" rx="8" fill="url(#cardGrad)" stroke="#47A248" stroke-width="1">
+            <animate attributeName="stroke-opacity" values="0.9;0.4;0.9" dur="3.8s" begin="0.5s" repeatCount="indefinite"/>
+        </rect>
+        <image href="https://skillicons.dev/icons?i=mongodb" x="23" y="10" width="48" height="48"/>
+        <rect x="12" y="64" width="70" height="1" fill="#47A248" opacity="0.3"/>
+        <text x="47" y="78" font-family="JetBrains Mono, monospace" font-size="9" fill="#F0F6FC" text-anchor="middle" font-weight="600">MongoDB</text>
+        <rect x="10" y="88" width="74" height="14" rx="3" fill="#47A248" opacity="0.15"/>
+        <text x="47" y="98" font-family="JetBrains Mono, monospace" font-size="7" fill="#47A248" text-anchor="middle">DOCUMENT</text>
+    </g>
+
+    <g transform="translate(503, 556)">
+        <rect x="0" y="0" width="94" height="130" rx="8" fill="url(#cardGrad)" stroke="#F80000" stroke-width="1">
+            <animate attributeName="stroke-opacity" values="0.9;0.4;0.9" dur="3.2s" begin="0.7s" repeatCount="indefinite"/>
+        </rect>
+        <image href="https://skillicons.dev/icons?i=oracle" x="23" y="10" width="48" height="48"/>
+        <rect x="12" y="64" width="70" height="1" fill="#F80000" opacity="0.3"/>
+        <text x="47" y="78" font-family="JetBrains Mono, monospace" font-size="9" fill="#F0F6FC" text-anchor="middle" font-weight="600">Oracle DB</text>
+        <rect x="10" y="88" width="74" height="14" rx="3" fill="#F80000" opacity="0.15"/>
+        <text x="47" y="98" font-family="JetBrains Mono, monospace" font-size="7" fill="#F80000" text-anchor="middle">RELATIONAL</text>
+    </g>
+
+</svg>
